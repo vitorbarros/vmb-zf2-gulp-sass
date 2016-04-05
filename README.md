@@ -1,4 +1,4 @@
-# zf2-gulp
+# ZF2 Gulp
 
 ## Instruções
 
